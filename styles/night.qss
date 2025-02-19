@@ -1,0 +1,13 @@
+QMainWindow {
+    background-image: url(:img/night.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+QLabel {
+    font-size: 20px;
+    font-family: 'Arial';
+    font-weight: bold;
+    color: #ffffff;
+}

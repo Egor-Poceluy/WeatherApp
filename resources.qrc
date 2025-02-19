@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/search.png</file>
+        <file>icons/favorite.png</file>
+        <file>icons/favorite_selected.png</file>
+        <file>icons/menu.png</file>
+        <file>icons/go.png</file>
+        <file>icons/home.png</file>
+        <file>icons/settings.png</file>
+
+        <file>img/day.png</file>
+        <file>img/night.png</file>
+        <file>img/morning.png</file>
+
+        <file>styles/night.qss</file>
+        <file>styles/day.qss</file>
+        <file>styles/morning.qss</file>
+    </qresource>
+</RCC>
